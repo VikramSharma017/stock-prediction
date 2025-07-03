@@ -1,0 +1,6 @@
+__pycache__/
+stockenv/
+*.pyc
+.vscode/
+.idea/
+.streamlit/
