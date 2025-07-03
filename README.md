@@ -2,6 +2,12 @@
 
 This is a Streamlit web application that uses a Long Short-Term Memory (LSTM) deep learning model to predict stock prices based on historical data.
 
+<img src="https://github.com/user-attachments/assets/53c378b9-c215-46f5-8130-fae35068cae8" width="600"/>
+<img src="https://github.com/user-attachments/assets/57102ee5-f2b3-4832-8449-9a777d0dd69e" width="600"/>
+
+
+
+
 ## 🚀 Features
 
 - 📊 Interactive UI built with [Streamlit](https://streamlit.io)
